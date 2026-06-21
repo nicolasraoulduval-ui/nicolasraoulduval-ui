@@ -14,9 +14,9 @@
 
 ---
 
-I build tools that make financial reasoning faster and sharper — combining domain expertise in private equity, leveraged finance, and public markets with modern AI infrastructure.
+I build tools that make financial reasoning faster and sharper — and products that solve real problems. Combining domain expertise in private equity, leveraged finance, and public markets with modern AI infrastructure and mobile development.
 
-Currently focused on: **AI-augmented financial analysis** · **LBO modeling tooling** · **autonomous market intelligence**
+Currently focused on: **AI-augmented financial analysis** · **LBO modeling tooling** · **consumer mobile apps**
 
 ---
 
@@ -27,6 +27,7 @@ Currently focused on: **AI-augmented financial analysis** · **LBO modeling tool
 | [**lbo-simulator**](https://github.com/nicolasraoulduval-ui/simulateur-lbo) | `HTML` `CSS` `Vanilla JS` | Interactive LBO model — IRR, MOIC, debt schedule, value bridge. No dependencies, runs in browser. |
 | [**portfolio-pulse**](https://github.com/nicolasraoulduval-ui/portfoliopulse) | `Python` `Flask` `Groq` `Supabase` | Daily AI-generated portfolio briefing delivered by email. Built on LLaMA 70B + yfinance. |
 | [**market-monitor**](https://github.com/nicolasraoulduval-ui/bourse-review) | `Python` `Anthropic API` | Automated post-close portfolio review using Claude with web search. Runs on GitHub Actions. |
+| [**dracolo-maths**](https://github.com/nicolasraoulduval-ui/rork-dracolo-maths) | `React Native` `Expo` `TypeScript` | Gamified math app for kids (CP–CM2). Dragon mascot, 1000+ exercises, parent dashboard, App Store sub. |
 
 ---
 
@@ -35,8 +36,9 @@ Currently focused on: **AI-augmented financial analysis** · **LBO modeling tool
 ```
 Languages     Python · TypeScript · HTML/CSS
 AI            Anthropic Claude · Groq (LLaMA 70B) · OpenAI
+Mobile        React Native · Expo · Expo Router
 Data          yfinance · Supabase · PostgreSQL
-Infra         GitHub Actions · Render · Vercel · cron-job.org
+Infra         GitHub Actions · Render · Vercel · EAS
 Finance       LBO modeling · DCF · portfolio analysis · PE/VC mechanics
 ```
 
@@ -46,7 +48,7 @@ Finance       LBO modeling · DCF · portfolio analysis · PE/VC mechanics
 
 > Build things that work. Ship fast. Stay close to the domain.
 
-I believe the best financial tools are the ones that encode genuine expertise — not just data pipelines, but opinionated models that tell you something real.
+I believe the best tools are the ones that encode genuine expertise — not just data pipelines, but opinionated products that tell you something real.
 
 ---
 
