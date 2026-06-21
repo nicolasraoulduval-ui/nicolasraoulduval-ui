@@ -1,60 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1322,100:1a2a4a&height=120&section=header" width="100%"/>
-
 # Nicolas Raoul Duval
 
-**Builder at the intersection of finance and AI**
+**Builder · finance et IA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasraoulduval)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nicolasraoulduval-ui.github.io/simulateur-lbo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolas@email.com)
+[![Démo LBO](https://img.shields.io/badge/Démo_live-LBO_Simulator-0c1322?style=flat-square&logo=vercel&logoColor=white)](https://nicolasraoulduval-ui.github.io/simulateur-lbo)
 
 </div>
 
----
-
-I build tools that make financial reasoning faster and sharper — and products that solve real problems. Combining domain expertise in private equity, leveraged finance, and public markets with modern AI infrastructure and mobile development.
-
-Currently focused on: **AI-augmented financial analysis** · **LBO modeling tooling** · **consumer mobile apps**
+<!-- Pour ajouter un contact email, remplace la ligne ci-dessous par ton vrai email puis décommente :
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:TON_EMAIL_REEL)
+-->
 
 ---
 
-## Projects
+Je construis des outils qui rendent le raisonnement financier plus rapide et plus net, et des produits qui résolvent un problème concret. Expertise métier en private equity, leveraged finance et marchés cotés, combinée à de l'infra IA moderne et du développement mobile.
 
-| Project | Stack | Description |
+Focus actuel : **analyse financière augmentée par l'IA** · **outils de modélisation LBO** · **applications mobiles grand public**
+
+---
+
+## Projets
+
+| Projet | Stack | Description |
 |---|---|---|
-| [**lbo-simulator**](https://github.com/nicolasraoulduval-ui/simulateur-lbo) | `HTML` `CSS` `Vanilla JS` | Interactive LBO model — IRR, MOIC, debt schedule, value bridge. No dependencies, runs in browser. |
-| [**portfolio-pulse**](https://github.com/nicolasraoulduval-ui/portfoliopulse) | `Python` `Flask` `Groq` `Supabase` | Daily AI-generated portfolio briefing delivered by email. Built on LLaMA 70B + yfinance. |
-| [**market-monitor**](https://github.com/nicolasraoulduval-ui/bourse-review) | `Python` `Anthropic API` | Automated post-close portfolio review using Claude with web search. Runs on GitHub Actions. |
-| [**dracolo-maths**](https://github.com/nicolasraoulduval-ui/rork-dracolo-maths) | `React Native` `Expo` `TypeScript` | Gamified math app for kids (CP–CM2). Dragon mascot, 1000+ exercises, parent dashboard, App Store sub. |
+| [**simulateur-lbo**](https://github.com/nicolasraoulduval-ui/simulateur-lbo) | `HTML` `CSS` `Vanilla JS` | Modèle LBO interactif — TRI sur vecteur de flux, MOIC, échéancier de dette, value bridge. Zéro dépendance, tourne dans le navigateur. |
+| [**bourse-review**](https://github.com/nicolasraoulduval-ui/bourse-review) | `Python` `yfinance` `Anthropic API` | Revue de portefeuille post-clôture. Quantitatif calculé en Python, commentaire des mouvements délégué à Claude (web search). Cron GitHub Actions. |
+| [**rork-dracolo-maths**](https://github.com/nicolasraoulduval-ui/rork-dracolo-maths) | `React Native` `Expo` `TypeScript` | App de maths gamifiée pour enfants (CP–CM2). Mascotte dragon, 1000+ exercices, dashboard parent, abonnement App Store. |
 
 ---
 
 ## Stack
 
 ```
-Languages     Python · TypeScript · HTML/CSS
-AI            Anthropic Claude · Groq (LLaMA 70B) · OpenAI
-Mobile        React Native · Expo · Expo Router
-Data          yfinance · Supabase · PostgreSQL
-Infra         GitHub Actions · Render · Vercel · EAS
-Finance       LBO modeling · DCF · portfolio analysis · PE/VC mechanics
+Langages   Python · TypeScript · HTML/CSS
+IA         Anthropic Claude · Groq (LLaMA 70B)
+Mobile     React Native · Expo · Expo Router
+Données    yfinance · Supabase · PostgreSQL
+Infra      GitHub Actions · Render · Vercel · EAS
+Finance    LBO · DCF · analyse de portefeuille · mécaniques PE/VC
 ```
 
 ---
 
-## Philosophy
+## Approche
 
-> Build things that work. Ship fast. Stay close to the domain.
+> Construire des choses qui marchent. Livrer vite. Rester proche du métier.
 
-I believe the best tools are the ones that encode genuine expertise — not just data pipelines, but opinionated products that tell you something real.
+Les meilleurs outils encodent une vraie expertise — pas juste des pipelines de données, mais des produits avec un point de vue, qui disent quelque chose de vrai.
 
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicolasraoulduval-ui&show_icons=true&theme=dark&bg_color=0c1322&title_color=e8a33d&icon_color=e8a33d&text_color=e8edf6&border_color=233048&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasraoulduval-ui&layout=compact&theme=dark&bg_color=0c1322&title_color=e8a33d&text_color=e8edf6&border_color=233048" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nicolasraoulduval-ui&show_icons=true&theme=dark&bg_color=0c1322&title_color=e8a33d&icon_color=e8a33d&text_color=e8edf6&border_color=233048&include_all_commits=true&count_private=true" height="150"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a4a,100:0c1322&height=80&section=footer" width="100%"/>
