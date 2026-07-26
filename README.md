@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nicolas Raoul Duval
+# Nicolas
 
 **Builder · finance et IA**
 
