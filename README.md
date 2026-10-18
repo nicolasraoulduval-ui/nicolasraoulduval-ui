@@ -1,18 +1,11 @@
 <div align="center">
 
-# Nicolas Raoul-Duval
-
-**Étudiant en master finance · EM Normandie**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasraoulduval)
 [![Simulateur LBO](https://img.shields.io/badge/Démo-Simulateur_LBO-0c1322?style=flat-square)](https://nicolasraoulduval-ui.github.io/simulateur-lbo/)
 [![Franklin AI](https://img.shields.io/badge/Produit-Franklin_AI-2d4ff5?style=flat-square)](https://www.franklinai.fr)
 
 </div>
 
-Étudiant en M1 finance à l'EM Normandie, en stage d'audit financier chez Grant Thornton. Je m'oriente vers l'investissement.
-
-À côté, je conçois des outils d'analyse financière et des petits produits, que je développe avec des outils d'IA. Mon rôle : définir le problème, la logique financière et le produit, puis vérifier que chaque chiffre est juste.
+Outils d'analyse financière et petits produits, conçus côté finance et développés avec des outils d'IA. Le problème, la logique financière et la vérification des chiffres viennent de moi ; le code est écrit avec l'IA.
 
 ## Projets
 
@@ -36,7 +29,7 @@
 
 ## Ce que j'apporte
 
-- **Finance** : modélisation LBO et DCF, analyse de portefeuille, audit financier
+- **Finance** : modélisation LBO et DCF, analyse de portefeuille, lecture d'états financiers
 - **Produit** : partir d'un problème réel, le découper, livrer une version qui marche
 - **Outils** : Claude et Claude Code, Python, Supabase, Stripe, Vercel, GitHub Actions
 
