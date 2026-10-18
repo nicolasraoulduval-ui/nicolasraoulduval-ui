@@ -1,57 +1,45 @@
 <div align="center">
 
-# Nicolas
+# Nicolas Raoul-Duval
 
-**Builder · finance et IA**
+**Étudiant en master finance · EM Normandie**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasraoulduval)
-[![Démo LBO](https://img.shields.io/badge/Démo_live-LBO_Simulator-0c1322?style=flat-square&logo=vercel&logoColor=white)](https://nicolasraoulduval-ui.github.io/simulateur-lbo)
+[![Simulateur LBO](https://img.shields.io/badge/Démo-Simulateur_LBO-0c1322?style=flat-square)](https://nicolasraoulduval-ui.github.io/simulateur-lbo/)
+[![Franklin AI](https://img.shields.io/badge/Produit-Franklin_AI-2d4ff5?style=flat-square)](https://www.franklinai.fr)
 
 </div>
 
-<!-- Pour ajouter un contact email, remplace la ligne ci-dessous par ton vrai email puis décommente :
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:TON_EMAIL_REEL)
--->
+Étudiant en M1 finance à l'EM Normandie, en stage d'audit financier chez Grant Thornton. Je m'oriente vers l'investissement.
 
----
-
-Je construis des outils qui rendent le raisonnement financier plus rapide et plus net, et des produits qui résolvent un problème concret. Expertise métier en private equity, leveraged finance et marchés cotés, combinée à de l'infra IA moderne et du développement mobile.
-
-Focus actuel : **analyse financière augmentée par l'IA** · **outils de modélisation LBO** · **applications mobiles grand public**
-
----
+À côté, je conçois des outils d'analyse financière et des petits produits, que je développe avec des outils d'IA. Mon rôle : définir le problème, la logique financière et le produit, puis vérifier que chaque chiffre est juste.
 
 ## Projets
 
-| Projet | Stack | Description |
-|---|---|---|
-| [**simulateur-lbo**](https://github.com/nicolasraoulduval-ui/simulateur-lbo) | `HTML` `CSS` `Vanilla JS` | Modèle LBO interactif — TRI sur vecteur de flux, MOIC, échéancier de dette, value bridge. Zéro dépendance, tourne dans le navigateur. |
-| [**bourse-review**](https://github.com/nicolasraoulduval-ui/bourse-review) | `Python` `yfinance` `Anthropic API` | Revue de portefeuille post-clôture. Quantitatif calculé en Python, commentaire des mouvements délégué à Claude (web search). Cron GitHub Actions. |
-| [**rork-dracolo-maths**](https://github.com/nicolasraoulduval-ui/rork-dracolo-maths) | `React Native` `Expo` `TypeScript` | App de maths gamifiée pour enfants (CP–CM2). Mascotte dragon, 1000+ exercices, dashboard parent, abonnement App Store. |
+### Finance
 
----
+| Projet | Ce que c'est |
+|---|---|
+| [**simulateur-lbo**](https://github.com/nicolasraoulduval-ui/simulateur-lbo) | Modèle de LBO interactif : sources et emplois, dette senior et mezzanine PIK, frais, TRI, MOIC, pont de valeur, sensibilités. [Démo](https://nicolasraoulduval-ui.github.io/simulateur-lbo/) |
+| [**bourse-review**](https://github.com/nicolasraoulduval-ui/bourse-review) | Revue de portefeuille envoyée chaque soir après la clôture US. Chiffres calculés en Python, commentaire d'actualité rédigé par Claude. |
+| [**portfoliopulse**](https://github.com/nicolasraoulduval-ui/portfoliopulse) | Application web de briefing de portefeuille quotidien par email, multi-utilisateurs, infrastructure à 0 € par mois. |
+| [**sentinel-site**](https://github.com/nicolasraoulduval-ui/sentinel-site) | Prototype d'outil de suivi de participations pour fonds de VC et PE : KPI, alertes, reporting LP. [Démo](https://sentinelfund.fr/) |
 
-## Stack
+### Produits
 
-```
-Langages   Python · TypeScript · HTML/CSS
-IA         Anthropic Claude · Groq (LLaMA 70B)
-Mobile     React Native · Expo · Expo Router
-Données    yfinance · Supabase · PostgreSQL
-Infra      GitHub Actions · Render · Vercel · EAS
-Finance    LBO · DCF · analyse de portefeuille · mécaniques PE/VC
-```
+| Projet | Ce que c'est |
+|---|---|
+| [**franklin-ai**](https://github.com/nicolasraoulduval-ui/franklin-ai) | Analyse de relevés bancaires : portrait financier, abonnements oubliés, note sur 20. Paiement Stripe, en ligne. Règle centrale : l'IA rédige, le code calcule. [Site](https://www.franklinai.fr) |
+| [**prospekt**](https://github.com/nicolasraoulduval-ui/prospekt) | Générateur de sites vitrines à partir d'une fiche Google, pour démarcher les commerces locaux. |
+| [**demo-multi-agents**](https://github.com/nicolasraoulduval-ui/demo-multi-agents) | Simulations visuelles d'un système multi-agents IA, dont un comité d'investissement VC. [Démo](https://nicolasraoulduval-ui.github.io/demo-multi-agents/) |
+| **Dracolo Maths** | Application mobile de maths pour enfants du CP au CM2 (React Native, Expo). Dépôt privé. |
 
----
+## Ce que j'apporte
 
-## Approche
+- **Finance** : modélisation LBO et DCF, analyse de portefeuille, audit financier
+- **Produit** : partir d'un problème réel, le découper, livrer une version qui marche
+- **Outils** : Claude et Claude Code, Python, Supabase, Stripe, Vercel, GitHub Actions
 
-> Construire des choses qui marchent. Livrer vite. Rester proche du métier.
+## Méthode
 
-Les meilleurs outils encodent une vraie expertise — pas juste des pipelines de données, mais des produits avec un point de vue, qui disent quelque chose de vrai.
-
----
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicolasraoulduval-ui&show_icons=true&theme=dark&bg_color=0c1322&title_color=e8a33d&icon_color=e8a33d&text_color=e8edf6&border_color=233048&include_all_commits=true&count_private=true" height="150"/>
-</div>
+Un outil financier ne vaut que par la justesse de ses chiffres. Dans mes projets, les calculs sont faits par du code vérifiable, et l'IA n'intervient que pour lire, expliquer ou rédiger.
