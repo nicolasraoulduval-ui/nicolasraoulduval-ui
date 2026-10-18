@@ -23,14 +23,14 @@
 | [**simulateur-lbo**](https://github.com/nicolasraoulduval-ui/simulateur-lbo) | Modèle de LBO interactif : sources et emplois, dette senior et mezzanine PIK, frais, TRI, MOIC, pont de valeur, sensibilités. [Démo](https://nicolasraoulduval-ui.github.io/simulateur-lbo/) |
 | [**bourse-review**](https://github.com/nicolasraoulduval-ui/bourse-review) | Revue de portefeuille envoyée chaque soir après la clôture US. Chiffres calculés en Python, commentaire d'actualité rédigé par Claude. |
 | [**portfoliopulse**](https://github.com/nicolasraoulduval-ui/portfoliopulse) | Application web de briefing de portefeuille quotidien par email, multi-utilisateurs, infrastructure à 0 € par mois. |
-| [**sentinel-site**](https://github.com/nicolasraoulduval-ui/sentinel-site) | Prototype d'outil de suivi de participations pour fonds de VC et PE : KPI, alertes, reporting LP. [Démo](https://sentinelfund.fr/) |
+| [**sentinel-site**](https://github.com/nicolasraoulduval-ui/sentinel-site) | Prototype d'outil de suivi de participations pour fonds de VC et PE : KPI, alertes, reporting LP. [Démo](https://nicolasraoulduval-ui.github.io/sentinel-site/) |
 
 ### Produits
 
 | Projet | Ce que c'est |
 |---|---|
 | [**franklin-ai**](https://github.com/nicolasraoulduval-ui/franklin-ai) | Analyse de relevés bancaires : portrait financier, abonnements oubliés, note sur 20. Paiement Stripe, en ligne. Règle centrale : l'IA rédige, le code calcule. [Site](https://www.franklinai.fr) |
-| [**prospekt**](https://github.com/nicolasraoulduval-ui/prospekt) | Générateur de sites vitrines à partir d'une fiche Google, pour démarcher les commerces locaux. |
+| [**prospekt**](https://github.com/nicolasraoulduval-ui/prospekt) | Générateur de sites vitrines à partir d'une fiche Google, pour démarcher les commerces locaux. [Démo](https://nicolasraoulduval-ui.github.io/prospekt/) |
 | [**demo-multi-agents**](https://github.com/nicolasraoulduval-ui/demo-multi-agents) | Simulations visuelles d'un système multi-agents IA, dont un comité d'investissement VC. [Démo](https://nicolasraoulduval-ui.github.io/demo-multi-agents/) |
 | **Dracolo Maths** | Application mobile de maths pour enfants du CP au CM2 (React Native, Expo). Dépôt privé. |
 
